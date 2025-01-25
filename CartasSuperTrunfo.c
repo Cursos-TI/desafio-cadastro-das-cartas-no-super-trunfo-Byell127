@@ -6,6 +6,8 @@ float população;
 float area;
 float PIB;
 float turismo;
+char nome;
+
 
 
 
