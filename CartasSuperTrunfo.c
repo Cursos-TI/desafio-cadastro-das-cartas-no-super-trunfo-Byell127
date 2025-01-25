@@ -19,7 +19,8 @@ int estado;
 printf("Digite seu número de cidades: \n");
   scanf("%d", &cidade); 
 
-
+printf("Vamos começar com o estado 1 \n");
+  
 
     return 0;
 }
