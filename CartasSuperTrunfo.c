@@ -12,7 +12,9 @@ int estado;
 
   printf("Digite o nome do seu país \n");
   scanf("%s", &nome);
-    
+
+  printf("Digite seu número de estados \n");
+  scanf("%d", &estado);   
     
 
 
