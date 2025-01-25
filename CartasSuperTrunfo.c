@@ -33,5 +33,22 @@ scanf("%f", &PIB);
 printf("Informe a quantidade de pontos turisticos da cidade A01: \n");
 scanf("%d", &turismo);
 
+printf("Vamos para a cidade A02: \n");
+
+printf("Informe a População da cidade A02 : \n");
+scanf("%f", &habitantes);
+
+printf("Informe Área da cidade A02: \n");
+scanf("%f", &area);
+
+printf("Informe o PIB da cidade A02: \n");
+scanf("%f", &PIB);
+
+printf("Informe a quantidade de pontos turisticos da cidade A02: \n");
+scanf("%d", &turismo);
+
+
+
+
     return 0;
 }
