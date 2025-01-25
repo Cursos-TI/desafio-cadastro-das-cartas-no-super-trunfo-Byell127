@@ -16,11 +16,15 @@ int estado;
   printf("Digite seu número de estados: \n");
   scanf("%d", &estado);   
     
-printf("Digite seu número de cidades: \n");
+printf("Digite o numero de cidades de cada estado: \n");
   scanf("%d", &cidade); 
 
-printf("Vamos começar com o estado 1 \n");
-  
+printf("Vamos começar com o estado A... \n");
+
+printf("Informe a população da cidade A01: \n");
+scanf("%f", &habitantes);
+
+
 
     return 0;
 }
