@@ -5,7 +5,7 @@ int main() {
 float habitantes;
 float area;
 float PIB;
-float turismo;
+int turismo;
 char nome [50];
 int cidade;
 int estado;
@@ -21,10 +21,17 @@ printf("Digite o numero de cidades de cada estado: \n");
 
 printf("Vamos começar com o estado A... \n");
 
-printf("Informe a população da cidade A01: \n");
+printf("Informe a População da cidade A01: \n");
 scanf("%f", &habitantes);
 
+printf("Informe Área da cidade A01: \n");
+scanf("%f", &area);
 
+printf("Informe o PIB da cidade A01: \n");
+scanf("%f", &PIB);
+
+printf("Informe a quantidade de pontos turisticos da cidade A01: \n");
+scanf("%d", &turismo);
 
     return 0;
 }
