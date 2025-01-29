@@ -102,6 +102,8 @@ printf("\n");
 
 printf("Cidade A04: População %f - Área %f - PIB %f - Ponto(s) Turisticos(s) %d. \n", habitantes4, area4, PIB4, turismo4);
 
+printf("Agora vamos para o Estado B com as cidades B01,B02,B03,B04");
+
 
 
 
