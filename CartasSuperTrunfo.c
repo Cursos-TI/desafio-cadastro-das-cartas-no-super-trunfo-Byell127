@@ -43,6 +43,30 @@ float area8;
 float PIB8;
 int turismo8;
 
+float habitantes9;
+float area9;
+float PIB9;
+int turismo9;
+
+float habitantes10;
+float area10;
+float PIB10;
+int turismo10;
+
+float habitantes11;
+float area11;
+float PIB11;
+int turismo11;
+
+float habitantes12;
+float area12;
+float PIB12;
+int turismo12;
+
+
+
+
+
   printf("Digite o nome do seu país: ");
   scanf("%s", &nome);
 
@@ -178,6 +202,8 @@ scanf("%f", &PIB8);
 printf("Informe a quantidade de pontos turisticos da cidade B04: ");
 scanf("%d", &turismo8);
 printf("\n");
+
+
 
 
 
