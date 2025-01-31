@@ -492,6 +492,198 @@ printf("Informe a quantidade de pontos turisticos da cidade E04: ");
 scanf("%d", &turismo20);
 printf("\n");
 
+printf("Agora vamos para o Estado F com as cidades F01,F02,F03,F04");
+printf("\n");
+
+printf("Informe a População da cidade F01: ");
+scanf("%f", &habitantes21);
+
+printf("Informe Área da cidade F01: ");
+scanf("%f", &area21);
+
+printf("Informe o PIB da cidade F01:");
+scanf("%f", &PIB21);
+
+printf("Informe a quantidade de pontos turisticos da cidade F01:");
+scanf("%d", &turismo21);
+printf("\n");
+
+printf("Vamos para a cidade F02: ");
+printf("\n");
+
+printf("Informe a População da cidade F02 : ");
+scanf("%f", &habitantes22);
+
+printf("Informe Área da cidade F02: ");
+scanf("%f", &area22);
+
+printf("Informe o PIB da cidade F02: ");
+scanf("%f", &PIB22);
+
+printf("Informe a quantidade de pontos turisticos da cidade F02: ");
+scanf("%d", &turismo22);
+printf("\n");
+
+printf("Vamos para a cidade F03:");
+printf("\n");
+
+printf("Informe a População da cidade F03 :");
+scanf("%f", &habitantes23);
+
+printf("Informe Área da cidade F03: ");
+scanf("%f", &area23);
+
+printf("Informe o PIB da cidade F03: ");
+scanf("%f", &PIB23);
+
+printf("Informe a quantidade de pontos turisticos da cidade F03: ");
+scanf("%d", &turismo23);
+printf("\n");
+
+printf("Vamos para a cidade F04: ");
+printf("\n");
+
+printf("Informe a População da cidade F04 : ");
+scanf("%f", &habitantes24);
+
+printf("Informe Área da cidade F04: ");
+scanf("%f", &area24);
+
+printf("Informe o PIB da cidade F04: ");
+scanf("%f", &PIB24);
+
+printf("Informe a quantidade de pontos turisticos da cidade F04: ");
+scanf("%d", &turismo24);
+printf("\n");
+
+
+printf("Agora vamos para o Estado G com as cidades G01,G02,G03,G04");
+printf("\n");
+
+printf("Informe a População da cidade G01: ");
+scanf("%f", &habitantes25);
+
+printf("Informe Área da cidade G01: ");
+scanf("%f", &area25);
+
+printf("Informe o PIB da cidade G01:");
+scanf("%f", &PIB25);
+
+printf("Informe a quantidade de pontos turisticos da cidade G01:");
+scanf("%d", &turismo25);
+printf("\n");
+
+printf("Vamos para a cidade G02: ");
+printf("\n");
+
+printf("Informe a População da cidade G02 : ");
+scanf("%f", &habitantes26);
+
+printf("Informe Área da cidade G02: ");
+scanf("%f", &area26);
+
+printf("Informe o PIB da cidade G02: ");
+scanf("%f", &PIB26);
+
+printf("Informe a quantidade de pontos turisticos da cidade G02: ");
+scanf("%d", &turismo26);
+printf("\n");
+
+printf("Vamos para a cidade G03:");
+printf("\n");
+
+printf("Informe a População da cidade G03 :");
+scanf("%f", &habitantes27);
+
+printf("Informe Área da cidade G03: ");
+scanf("%f", &area27);
+
+printf("Informe o PIB da cidade G03: ");
+scanf("%f", &PIB27);
+
+printf("Informe a quantidade de pontos turisticos da cidade G03: ");
+scanf("%d", &turismo27);
+printf("\n");
+
+printf("Vamos para a cidade G04: ");
+printf("\n");
+
+printf("Informe a População da cidade G04 : ");
+scanf("%f", &habitantes28);
+
+printf("Informe Área da cidade G04: ");
+scanf("%f", &area28);
+
+printf("Informe o PIB da cidade G04: ");
+scanf("%f", &PIB28);
+
+printf("Informe a quantidade de pontos turisticos da cidade G04: ");
+scanf("%d", &turismo28);
+printf("\n");
+
+printf("Agora vamos para o Estado H com as cidades H01,H02,H03,H04");
+printf("\n");
+
+printf("Informe a População da cidade H01: ");
+scanf("%f", &habitantes29);
+
+printf("Informe Área da cidade H01: ");
+scanf("%f", &area29);
+
+printf("Informe o PIB da cidade H01:");
+scanf("%f", &PIB29);
+
+printf("Informe a quantidade de pontos turisticos da cidade H01:");
+scanf("%d", &turismo29);
+printf("\n");
+
+printf("Vamos para a cidade H02: ");
+printf("\n");
+
+printf("Informe a População da cidade H02 : ");
+scanf("%f", &habitantes30);
+
+printf("Informe Área da cidade H02: ");
+scanf("%f", &area30);
+
+printf("Informe o PIB da cidade H02: ");
+scanf("%f", &PIB30);
+
+printf("Informe a quantidade de pontos turisticos da cidade H02: ");
+scanf("%d", &turismo30);
+printf("\n");
+
+printf("Vamos para a cidade H03:");
+printf("\n");
+
+printf("Informe a População da cidade H03 :");
+scanf("%f", &habitantes31);
+
+printf("Informe Área da cidade H03: ");
+scanf("%f", &area31);
+
+printf("Informe o PIB da cidade H03: ");
+scanf("%f", &PIB31);
+
+printf("Informe a quantidade de pontos turisticos da cidade H03: ");
+scanf("%d", &turismo31);
+printf("\n");
+
+printf("Vamos para a cidade H04: ");
+printf("\n");
+
+printf("Informe a População da cidade H04 : ");
+scanf("%f", &habitantes32);
+
+printf("Informe Área da cidade H04: ");
+scanf("%f", &area32);
+
+printf("Informe o PIB da cidade H04: ");
+scanf("%f", &PIB32);
+
+printf("Informe a quantidade de pontos turisticos da cidade H04: ");
+scanf("%d", &turismo32);
+printf("\n");
 
 
 
@@ -583,8 +775,56 @@ printf("\n");
 printf("Cidade E04: População %f - Área %f - PIB %f - Ponto(s) Turisticos(s) %d. \n", habitantes20, area20, PIB20, turismo20);
 printf("\n");
 
+printf("ESTADO F:");
+printf("\n");
+printf("Cidade F01: População %f - Área %f - PIB %f - Ponto(s) Turisticos(s) %d. \n", habitantes21, area21, PIB21, turismo21);
+printf("\n");
 
 
+printf("Cidade F02: População %f - Área %f - PIB %f - Ponto(s) Turisticos(s) %d. \n", habitantes22, area22, PIB22, turismo22);
+printf("\n");
+
+
+printf("Cidade F03: População %f - Área %f - PIB %f - Ponto(s) Turisticos(s) %d. \n", habitantes23, area23, PIB23, turismo23);
+printf("\n");
+
+
+printf("Cidade F04: População %f - Área %f - PIB %f - Ponto(s) Turisticos(s) %d. \n", habitantes24, area24, PIB24, turismo24);
+printf("\n");
+
+printf("ESTADO G:");
+printf("\n");
+printf("Cidade G01: População %f - Área %f - PIB %f - Ponto(s) Turisticos(s) %d. \n", habitantes25, area25, PIB25, turismo25);
+printf("\n");
+
+
+printf("Cidade G02: População %f - Área %f - PIB %f - Ponto(s) Turisticos(s) %d. \n", habitantes26, area26, PIB26, turismo26);
+printf("\n");
+
+
+printf("Cidade G03: População %f - Área %f - PIB %f - Ponto(s) Turisticos(s) %d. \n", habitantes27, area27, PIB27, turismo27);
+printf("\n");
+
+
+printf("Cidade G04: População %f - Área %f - PIB %f - Ponto(s) Turisticos(s) %d. \n", habitantes28, area28, PIB28, turismo28);
+printf("\n");
+
+printf("ESTADO H:");
+printf("\n");
+printf("Cidade H01: População %f - Área %f - PIB %f - Ponto(s) Turisticos(s) %d. \n", habitantes29, area29, PIB29, turismo29);
+printf("\n");
+
+
+printf("Cidade H02: População %f - Área %f - PIB %f - Ponto(s) Turisticos(s) %d. \n", habitantes30, area30, PIB30, turismo30);
+printf("\n");
+
+
+printf("Cidade H03: População %f - Área %f - PIB %f - Ponto(s) Turisticos(s) %d. \n", habitantes31, area31, PIB31, turismo31);
+printf("\n");
+
+
+printf("Cidade H04: População %f - Área %f - PIB %f - Ponto(s) Turisticos(s) %d. \n", habitantes32, area32, PIB32, turismo32);
+printf("\n");
 
     return 0;
 }
